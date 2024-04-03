@@ -13,7 +13,7 @@ Fresco 支持 GIF 和 WebP 格式的动画图片。
 
 ### 设置动画图自动播放
 
-如果你希望图片下载完之后自动播放，同时，当View从屏幕移除时，停止播放，只需要在 [image request](image-requests.html) 中简单设置，如下:
+如果你希望图片下载完之后自动播放，同时，当View从屏幕移除时，停止播放，只需要在 [DraweeController](using-controllerbuilder.html) 中简单设置，如下:
 
 
 ```java
